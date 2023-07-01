@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ten12star. My name is Elias Lewis.
+- 👋 Hi, I’m @ten12star.
 - 👀 I’m interested in Shopify Plus development.
 - 🌱 I’m currently learning E-commerce marketting strategy.
 
