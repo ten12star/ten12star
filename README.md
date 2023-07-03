@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ten12star.
+- 👋 Hi, I’m @Ten12star.
 - 👀 I’m interested in Shopify Plus development.
 - 🌱 I’m currently learning E-commerce marketting strategy.
 
