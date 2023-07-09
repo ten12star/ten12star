@@ -2,7 +2,7 @@
 - 👀 I’m interested in Shopify Plus development.
 - 🌱 I’m currently learning E-commerce marketting strategy.
 
-<div align="right" class="T12__preview">
+<div align="right">
 
 ![](https://komarev.com/ghpvc/?username=ten12star)
 
@@ -14,8 +14,3 @@
 ten12star/ten12star is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<style>
-  .T12__preview {
-    position: absolute;
-  }
-</style>
