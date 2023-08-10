@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @Ten12star.
-- 👀 I’m interested in Shopify Plus development.
-- 🌱 I’m currently learning E-commerce marketting strategy.
-
 <div align="right">
 
 <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,redux,vue,rxjs,webpack,nodejs,express,graphql,laravel,py,django,spring,cs,prisma,mysql,postgresql,mongodb,redis,dynamodb,git,jenkins,docker,kubernetes,aws&perline=14" alt="Technologies" width="100%"/>
