@@ -47,7 +47,7 @@
 </p>
 
 <a href="https://github.com/ten12star" align="center"></a>
-<div align="cneter">
+<div align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ten12star&theme=2077" height="180em" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ten12star&theme=2077" height="180em" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ten12star&theme=2077" height="180em" />
