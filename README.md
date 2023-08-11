@@ -46,13 +46,4 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 
-<a href="https://github.com/ten12star" align="center"></a>
-<div align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ten12star&theme=2077" height="180em" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ten12star&theme=2077" height="180em" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ten12star&theme=2077" height="180em" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ten12star&theme=2077" height="180em" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ten12star&theme=2077" height="180em" />
-</div>
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<a href="https://github.com/ten12star" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
