@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm @ten12star, a shopify expert. Elias Lewis</h1>
 <h3 align="center">Shopify | Wordpress | MERN</h3>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=ten12star&label=Profile%20views&color=0e75b6&style=flat" alt="ten12star" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ten12star&label=Profile%20views&color=0e75b6&style=flat" alt="ten12star" /> </p>
 
 <h3 align="center">__ Languages and Tools __</h3>
 <p align="center">
