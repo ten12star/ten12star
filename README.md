@@ -1,12 +1,11 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm @ten12star, a shopify expert. Elias Lewis</h1>
-<h3 align="center">Shopify</h3>
+<h3 align="center">Shopify | Wordpress | MERN</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ten12star&label=Profile%20views&color=0e75b6&style=flat" alt="ten12star" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ten12star&theme=" alt="ten12star" /></a> </p>
 
-<div> <a href="https://github.com/ten12star" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/Clojure_logo.svg" alt="Clojure" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
